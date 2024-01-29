@@ -20,10 +20,6 @@ There are several types of tests we can create for our applications, including u
 
 As we progress from learning how to build applications to building better applications, we introduce testing coverage to ensure our applications are robust and maintain their integrity as we make changes. Automated testing is also a crucial part of the Continuous Integration/Continuous Delivery (CI/CD) model in DevOps. For many junior developers and engineers, writing tests to become familiar with a codebase is a common task during their first few weeks or months at an organization.
 
-### Essential Questions
-
-**❓ What testing library have we used so far, and what type of tests did we write?**
-
 ## TDD: Test-Driven Development
 
 A development methodology of writing the tests first, then writing the code to make those tests pass. Thus the process is:
